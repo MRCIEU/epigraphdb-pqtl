@@ -41,7 +41,7 @@ For more information on how to run the MR analysis, please check out R script `M
 
 ## EpiGraphDB pQTL PheWAS browser 
 
-The [`epigraphdb-pqtl`](https://github.com/MRCIEU/epigraphdb-pqtl/) currently contains the Mendelian Randomization and sensitivity analyses results for 989 proteins and 225 traits, i.e. diseases and risk factors. To start using this browser, simply type a protein or trait name into the "search" field, for example, ADAM19 or Lung cancer. The full list of proteins can be found by following the link on top of the "search" field.
+The [EpiGraphDB Proteome PheWAS browser](https://epigraphdb.org/pqtl/) currently contains the Mendelian Randomization and sensitivity analyses results for 989 proteins and 225 traits, i.e. diseases and risk factors. To start using this browser, simply type a protein or trait name into the "search" field, for example, ADAM19 or Lung cancer. The full list of proteins can be found by following the link on top of the "search" field.
 
 ## Citation
 
