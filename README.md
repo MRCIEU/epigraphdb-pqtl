@@ -15,22 +15,22 @@ This is the github repository to provide all information, news and updates of th
 2. the repo provides ease to use R scripts to run MR and colocalization analysis for the pQTL MR project. 
 3. the MR and colocalization analyses results of the EpiGraphDB pQTL project have been pre-calculated and stored in the [EpiGraphDB Proteome PheWAS browser](https://epigraphdb.org/pqtl/). 
 
-## Installation
+## Installation of related R packages
 
 [`devtools`](https://devtools.r-lib.org/)
 is required to install from github:
 
 ```r
 ###install the Two sample MR package (just need do this once) 
-##source("https://bioconductor.org/biocLite.R")
-#install.packages("devtools")
+source("https://bioconductor.org/biocLite.R")
+install.packages("devtools")
 
-##to update the R package (once there is a )
-#library(devtools)
-#install_github("MRCIEU/TwoSampleMR")
+##to install/update the R package (once there is a )
+library(devtools)
+install_github("MRCIEU/TwoSampleMR")
 
 #example of use the older version of the package
-#devtools::install_github("MRCIEU/TwoSampleMR@0.3.2")
+devtools::install_github("MRCIEU/TwoSampleMR@0.3.2")
 ```
 
 ## Run pQTL MR analysis
