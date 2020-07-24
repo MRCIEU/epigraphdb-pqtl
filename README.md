@@ -1,7 +1,7 @@
 # EpiGraphDB pQTL MR project repository 
 This is the GitHub repository to provide all information, news and updates of the EpiGraphDB pQTL MR project, which is a phenome-wide Mendelian randomization study of the plasma proteome. 
 
-<a href="http://epigraphdb.org/pqtl/"><img src="https://epigraphdb.org/img/epigraphdb-logo.ed38e02a.svg" alt="" height="60" style="padding:10px"/></a> <span class="pull-right"> <a href="http://www.bris.ac.uk"><img src="https://epigraphdb.org/img/uob.16744ca9.svg" alt="" height="60" style="padding:10px"/></a> <a href="http://www.bris.ac.uk/ieu"><img src="http://www.bristol.ac.uk/media-library/sites/integrative-epidemiology/images/mrc-ieu-logo.png" alt="" height="60" style="padding:10px"/></a> </span>
+<a href="http://epigraphdb.org/pqtl/"><img src="https://epigraphdb.org/img/epigraphdb-logo.ed38e02a.svg" alt="" height="60" style="padding:10px"/></a> <span class="pull-right">&nbsp;&nbsp;&nbsp; <a href="http://www.bris.ac.uk"><img src="https://epigraphdb.org/img/uob.16744ca9.svg" alt="" height="60" style="padding:10px"/></a>&nbsp;&nbsp;&nbsp; <a href="http://www.bris.ac.uk/ieu"><img src="http://www.bristol.ac.uk/media-library/sites/integrative-epidemiology/images/mrc-ieu-logo.png" alt="" height="60" style="padding:10px"/></a> </span>
 
 <!-- badges: start -->
 
