@@ -13,7 +13,7 @@ This is the github repository to provide all information, news and updates of th
 [`epigraphdb-pqtl`](https://github.com/MRCIEU/epigraphdb-pqtl/) is an github repo provide the following information: 
 1. news and updates of the EpiGraphDB pQTL project. 
 2. the repo provides ease to use R scripts to run MR and colocalization analysis for the pQTL MR project. 
-3. the MR and colocalization analyses results of the EpiGraphDB pQTL project have been pre-calculated and stored in the [EpiGraphDB Proteome PheWAS browser](https://epigraphdb.org/pqtl/). The browser currently contains the Mendelian Randomization and sensitivity analyses results for 989 proteins and 225 traits, i.e. diseases and risk factors. To start using this browser, simply type a protein or trait name into the "search" field, for example, ADAM19 or Lung cancer. The full list of proteins can be found by following the link on top of the "search" field.
+3. the MR and colocalization analyses results of the EpiGraphDB pQTL project have been pre-calculated and stored in the [EpiGraphDB Proteome PheWAS browser](https://epigraphdb.org/pqtl/). 
 
 ## Installation
 
@@ -39,7 +39,10 @@ is required to install from github:
 
 For more information on how to run the MR analysis, please check out R script `MR-pQTL-script.R`
 
-## EpiGraphDB pQTL browser 
+## EpiGraphDB pQTL PheWAS browser 
+
+The browser currently contains the Mendelian Randomization and sensitivity analyses results for 989 proteins and 225 traits, i.e. diseases and risk factors. To start using this browser, simply type a protein or trait name into the "search" field, for example, ADAM19 or Lung cancer. The full list of proteins can be found by following the link on top of the "search" field.
+
 
 | link                                                | 
 |-----------------------------------------------------|
